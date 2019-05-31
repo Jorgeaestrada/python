@@ -1,0 +1,29 @@
+# para operaciones matematicas
+
+__sub__ para -
+__mul__ para *
+__truediv__ para /
+__floordiv__ para //
+__mod__ para %
+__pow__ para **
+__and__ para &
+__xor__ para ^
+__or__ para |
+
+# para comparaciones
+
+__it__ para <
+__le__ para <=
+__eq__ para ==
+__ne__ para !=
+__gt__ para >
+__ge__ para >=
+
+# There are several magic methods for making classes act like containers.
+
+__len__ for len()
+__getitem__ for indexing
+__setitem__ for assigning to indexed values
+__delitem__ for deleting indexed values
+__iter__ for iteration over objects (e.g., in for loops)
+__contains__ for in
