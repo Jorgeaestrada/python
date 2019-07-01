@@ -12,7 +12,7 @@ class Settings():
         self.ship_speed_factor = 1.5
         
         # Alien Settings
-        
+        self.alien_speed_factor = 1
 
         # Bullet settings
         self.bullet_speed_factor = 1
